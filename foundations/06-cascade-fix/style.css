@@ -1,0 +1,22 @@
+p{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.small-para {
+    font-size: large;
+}
+
+#confirm-button {
+    background-color: green;
+    color: white;
+}
+
+.text {
+    font-size: x-large;
+}
+
+div > .child {
+    font-weight: bolder;
+    font-size: large;
+}
